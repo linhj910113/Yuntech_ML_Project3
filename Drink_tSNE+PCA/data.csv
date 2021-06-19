@@ -1,0 +1,8 @@
+Class,Drink,Rank,m,s,Count
+A,Coke,7,100,200,200
+B,Pepsi,6,200,10,100
+C,7Up,5,200,10,100
+D,Sprite,4,400,100,200
+E,Latte,3,800,10,100
+F,Espresso,2,800,10,100
+G,Cappuccino,1,900,400,200
